@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://msme.gov.in/sites/default/files/msme_logo_0.png" width="200">
+</p>
 # Water Level Monitoring and Alert System 
 
 This project presents a smart, IoT-based water level detection and monitoring system designed to mitigate urban waterlogging issues, particularly in flood-prone zones like tunnels and underpasses. It provides real-time alerts to drivers and authorities to prevent vehicle damage, traffic congestion, and accidents.
@@ -34,9 +37,10 @@ Deployed at tunnel entrances to warn approaching traffic before they enter flood
 
 ## 📋 Technical Flow Diagram
 The following diagram illustrates how data flows from the environment to the local indicators and the cloud dashboard.
+![alt text](image.png)
 
-
-
+## 📺 Project Demo
+![Project Demo Video](Media/project_demo.mp4)   
 ---
 
 ## 🛠️ Components List
