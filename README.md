@@ -37,7 +37,7 @@ Deployed at tunnel entrances to warn approaching traffic before they enter flood
 
 ## 📋 Technical Flow Diagram
 The following diagram illustrates how data flows from the environment to the local indicators and the cloud dashboard.
-![alt text](image.png)
+![Technical Flow Diagram](Media/technical_flow.png)
 
 ## 📺 Project Demo
 ![Project Demo Video](Media/project_demo.mp4)   
