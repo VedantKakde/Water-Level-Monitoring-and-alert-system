@@ -1,0 +1,15 @@
+# Arduino build files
+build/
+bin/
+*.hex
+*.elf
+*.bin
+
+# Local Preferences
+.settings/
+.project
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
